@@ -1,0 +1,21 @@
+{
+    "countdown": 8,
+    "bounty_hunters": [
+        {
+            "planet": "Hoth",
+            "day": 2
+        },
+        {
+            "planet": "Dagobah",
+            "day": 3
+        },
+        {
+            "planet": "Tatooine",
+            "day": 4
+        },
+        {
+            "planet": "Endor",
+            "day": 6
+        }
+    ]
+}
