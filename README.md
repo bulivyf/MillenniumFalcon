@@ -4,7 +4,7 @@
 Based on problem listed here:
 https://github.com/dataiku/millenium-falcon-challenge
 
-pip install flask numpy networkx
+pip install flask numpy networkx matplotlib
 
 flask app
 ```
